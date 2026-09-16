@@ -6,16 +6,24 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/HxkGSu3ExJ0Lz87QLF/giphy.gif"
-     width="220"
-     alt="Spider-Gwen animation"/>
+<!-- SPIDER WEB -->
 
-<br><br>
+<img src="https://media.giphy.com/media/HxkGSu3ExJ0Lz87QLF/giphy.gif"
+  width="600"
+  alt="Spider-Gwen animation"/>
+
+<br>
+
+```text
+🕸 ───────────────────────────────────────── 🕸
+```
+
+<br>
 
 <h2>Hi 👋! I'm Rizkya Gusnaldy Kalia</h2>
 
 <p>
-  Web Developer & Data Scientist from Indonesia 🇮🇩
+  <strong>Web Developer & Data Scientist</strong> from Indonesia 🇮🇩
 </p>
 
 <p>
@@ -41,9 +49,9 @@
   <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
+<br><br>
 
----
+</div>
 
 ## About Me
 
@@ -53,18 +61,29 @@ I enjoy working across the stack, from designing interfaces and developing front
 
 ### What I focus on
 
-- Frontend development
-- Modern and responsive UI
-- Backend & REST APIs
-- Database development
-- Data analysis
-- Machine learning experiments
+* Frontend development
+* Modern and responsive UI
+* Backend & REST APIs
+* Database development
+* Data analysis
+* Machine learning experiments
+
+<br>
+
+<div align="center">
+
+</div>
 
 ---
 
+<div align="center">
+
+```text
+🕸══════════════════════════════════════════════🕸
+```
+
 ## Tech Stack
 
-<div align="center">
 
 ### Frontend
 
@@ -81,6 +100,12 @@ I enjoy working across the stack, from designing interfaces and developing front
 ### Data & Tools
 
 <img src="https://skillicons.dev/icons?i=python,git,github,figma,postman,canva" />
+
+<br>
+
+```text
+🕸────────────────────────────────────────────🕸
+```
 
 </div>
 
